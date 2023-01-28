@@ -73,7 +73,7 @@ public class HW2 {
         System.out.println(d);
         
         // задание_2
-        if (isSwing(c, c)){
+        if (isSwing(b, c)){
             System.out.println("Yes!");
         }
         else{
